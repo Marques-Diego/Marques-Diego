@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Marques 😁
+## Bem-vindo(a) ao meu perfil ✌️😁
 
 <div>
    <a href="https://github.com/Marques-Diego">
@@ -14,10 +14,10 @@
  
  <br>
  
-  ### Para conteúdo sobre programação me segue na rede abaixo!
+  ### Para conteúdo sobre programação me segue na rede abaixo! 👇
  
 <div> 
-  <a href="https://www.linkedin.com/in/diego-marques-b59325265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/diego-marques-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Marques-Diego/Marques-Diego/blob/output/github-contribution-grid-snake.svg)
 
